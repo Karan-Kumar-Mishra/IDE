@@ -1,8 +1,8 @@
 # IDE
 <br>
 Hii i am  Karan Kumar Mishra!<br>
-It's great to hear that I have created an IDE for code run and compile with lots of features in C++.<br> 
-An IDE (Integrated Development Environment) is a software application that provides comprehensive<br>
+It's great to hear that I have created an IDE for code run and compile with lots of features in C++. 
+An IDE (Integrated Development Environment) is a software application that provides comprehensive
 facilities to computer programmers for software development.<br><br>
 
 ![Screenshot (152)](https://github.com/Karan-Kumar-Mishra/IDE/assets/93134411/dfa22047-2862-404a-9bf8-83780960a81a)
