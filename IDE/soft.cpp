@@ -104,7 +104,7 @@ public:
                 return;
                 break;
             case 7:
-                cout<<"Hello Karan Kumar Mishra! It's great to hear that I have created an IDE for code run and compile with lots of features in C++. An IDE (Integrated Development Environment) is a software application that provides comprehensive facilities to computer programmers for software development."<<endl;
+                cout<<"Hii i am  Karan Kumar Mishra! It's great to hear that I have created an IDE for code run and compile with lots of features in C++. An IDE (Integrated Development Environment) is a software application that provides comprehensive facilities to computer programmers for software development."<<endl;
                 getch();
                 break;
             default:
