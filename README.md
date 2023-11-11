@@ -5,13 +5,13 @@ It's great to hear that I have created an IDE for code run and compile with lots
 An IDE (Integrated Development Environment) is a software application that provides comprehensive
 facilities to computer programmers for software development.<br><br><br><br>
 Features :<br>
-1.create a new file
-2.open file
-3.update file
-4.delete file
-5.open file in other software like notepad and VScode
-6.run and compile the code of any lanuage like c,c++,java,python,nodejs etc.
-7.change the text color and background color etc.
+1.create a new file<br>
+2.open file<br>
+3.update file<br>
+4.delete file<br>
+5.open file in other software like notepad and VScode<br>
+6.run and compile the code of any lanuage like c,c++,java,python,nodejs etc.<br>
+7.change the text color and background color etc.<br>
 
 ![Screenshot (152)](https://github.com/Karan-Kumar-Mishra/IDE/assets/93134411/dfa22047-2862-404a-9bf8-83780960a81a)
 ![Screenshot (151)](https://github.com/Karan-Kumar-Mishra/IDE/assets/93134411/eca733b1-974e-422a-bdca-4e93f5861bd5)
