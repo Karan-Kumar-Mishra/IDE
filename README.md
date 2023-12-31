@@ -13,8 +13,7 @@ Features :<br>
 5.open file in other software like notepad and VScode<br>
 6.run and compile the code of any lanuage like c,c++,java,python,nodejs etc.<br>
 7.change the text color and background color etc.<br><br>
-https://www.linkedin.com/posts/karan-mishra-892970247_connections-cpp-cppprogramming-activity-7130533579855441921-5b62?utm_source=share&utm_medium=member_android
-<br>
+
 ![Screenshot (152)](https://github.com/Karan-Kumar-Mishra/IDE/assets/93134411/dfa22047-2862-404a-9bf8-83780960a81a)
 ![Screenshot (151)](https://github.com/Karan-Kumar-Mishra/IDE/assets/93134411/eca733b1-974e-422a-bdca-4e93f5861bd5)
 ![Screenshot (150)](https://github.com/Karan-Kumar-Mishra/IDE/assets/93134411/55e01837-1686-4326-a427-92235d6c0231)
